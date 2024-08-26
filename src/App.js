@@ -19,7 +19,7 @@ SuperTokens.init({
   appInfo: {
     appName: "ImageUploader",
     apiDomain: "https://monster-api-backend.vercel.app",
-    websiteDomain: "http://localhost:3000",
+    websiteDomain: "https://monster-api-frontend.vercel.app",
     apiBasePath: "/auth",
     websiteBasePath: "/auth"
   },
